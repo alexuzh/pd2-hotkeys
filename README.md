@@ -17,7 +17,7 @@ Enhance your Diablo 2 trading experience with our user-friendly Chrome Extension
 
 ## Installation
 
-1. **Download the Extension:** Access the latest release directly from [GitHub Releases](https://github.com/alexuzh/pd2-market-hotkeys/releases/download/1.0.0/pd2-market-hotkeys.zip).
+1. **Download the Extension:** Access the latest release directly from [GitHub Releases](https://github.com/alexuzh/pd2-market-hotkeys/releases).
 2. **Extract the Folder:** Unzip the downloaded file to extract the extension folder.
 3. **Load Unpacked Extension:** Follow Chrome's easy guide on [loading extensions](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) to enable the extension on your browser.
 
