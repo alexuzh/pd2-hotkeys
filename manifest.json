@@ -1,0 +1,17 @@
+{
+  "name": "PD2 Market hotkeys",
+  "description": "Extend the PD2 Market with hotkeys",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup/index.html",
+    "default_icon": "market.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.projectdiablo2.com/market*"],
+      "js": ["scripts/content.js"]
+    }
+  ],
+  "permissions": ["storage"]
+}

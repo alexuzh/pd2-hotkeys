@@ -1,0 +1,14 @@
+{
+  "name": "pd2-market-hotkeys",
+  "version": "1.0.0",
+  "author": "",
+  "license": "MIT",
+  "description": "PD2 Market Hotkeys",
+  "scripts": {
+    "prettier": "npx prettier **/*.{md,html,json,js} -w"
+  },
+  "devDependencies": {
+    "chrome-types": "0.1.329",
+    "prettier": "3.4.2"
+  }
+}
